@@ -14,7 +14,7 @@ Bu proje oluşturulurken [@nilgun](https://github.com/nilgun)'ün Linux'a ekledi
 
 ## Kurulum
 ### Hazır Dosyalar
-- 'Releases' kısmından düzenin son sürümünu indirebilir ve cihazınıza uygun .msi kurulum dosyasını ya da doğrudan .exe kurulum dosyasını çalıştırarak `Turkish Alt-Q` düzenini Windows bilgisayarınıza ekleyebilirsiniz. (Bu kurulum dosyaları Microsoft Keyboard Layout Creator ile oluşturulmuştur ve üzerlerinde benim tarafımdan herhangi bir değişiklik yapılmamıştır. Kendi yazdığım kurulum dosyaları değillerdir.)
+- '[Releases](https://github.com/AlperShal/Win-Turkish-Alt-Q-Layout/releases)' kısmından düzenin son sürümünu indirebilir ve cihazınıza uygun .msi kurulum dosyasını ya da doğrudan .exe kurulum dosyasını çalıştırarak `Turkish Alt-Q` düzenini Windows bilgisayarınıza ekleyebilirsiniz. (Bu kurulum dosyaları Microsoft Keyboard Layout Creator ile oluşturulmuştur ve üzerlerinde benim tarafımdan herhangi bir değişiklik yapılmamıştır. Kendi yazdığım kurulum dosyaları değillerdir.)
 ### Kendiniz Oluşturmanız İçin
 - [Turkish-Alt-Q.klc](https://github.com/AlperShal/Win-Turkish-Alt-Q-Layout/blob/main/Turkish-Alt-Q.klc) dosyasını bilgisayarınıza kaydedin.
 - [Microsoft Keyboard Layout Creator (MKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)'ı indirin ve kurun.
